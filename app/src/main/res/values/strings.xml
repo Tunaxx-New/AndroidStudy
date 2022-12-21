@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DiceAssignment</string>
+
+    <string name="threw_gt3">Nice throw</string>
+    <string name="threw_lt3">Threw &lt;3</string>
+    <string name="threw_else">Wtf dude</string>
+    <string name="roll">Roll</string>
+    <string name="fullname">Nikita Mordvintsev SE-2114</string>
+
+    <string name="lemon_select">Click to select a lemon!</string>
+    <string name="lemon_squeeze">Click to juice the lemon!</string>
+    <string name="lemon_drink">Click to drink your lemonade!</string>
+    <string name="lemon_empty_glass">Click to start again!</string>
+    <string name="squeeze_count">Squeeze count: %1$d, keep squeezing!</string>
+</resources>
